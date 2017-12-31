@@ -1,0 +1,221 @@
+//Snowy Day
+
+/*
+Developer:Stephanie Lee
+Date:12/16/17
+Description:Snowman
+*/
+background(13, 59, 99);
+
+//Ground
+rect(400,300,-400,100);
+
+//Body
+fill(250,245,245);
+ellipse(200,300,150,150);
+ellipse(200,200,100,100);
+
+//Buttons
+fill(33,21,21);
+ellipse(200,180,7,7);
+ellipse(200,190,7,7);
+ellipse(200,200,7,7);
+
+//face
+fill(250,245,245);
+ellipse(200,120,75,75);
+
+//Eyes
+fill(33,21,21);
+ellipse(180,120,7,7);
+ellipse(220,120,7,7);
+
+//Nose
+fill(255, 170, 0);
+triangle(248,132,200,134,199,127);
+
+//Mouth
+fill(33,21,21);
+ellipse(203,145,7,7);
+ellipse(211,142,7,7);
+ellipse(218,137,7,7);
+ellipse(195,143,7,7);
+ellipse(188,139,7,7);
+
+//Arms
+fill(33,21,21);
+triangle(161,183,112,143,95,125);
+triangle(306,108,268,152,238,181);
+triangle(90,146,128,155,50,132);
+triangle(128,157,105,111,110,120);
+triangle(286,130,289,124,292,103);
+triangle(285,131,315,121,282,135);
+
+//Hat
+fill(33,21,21);
+rect(150,80,100,15);
+rect(165,20,70,60);
+fill(255, 255, 255);
+rect(165,64,71,16);
+
+//Pine Tree
+fill(26,186,74);
+triangle(53,152,1,279,126,280);
+triangle(5,211,116,211,55,115);
+triangle(13,152,54,87,102,152);
+fill(133,97,97);
+rect(43,280,36,51);
+
+//Christmas Lights
+fill(255, 0, 0);
+ellipse(57,98,7,7);
+fill(255, 242, 0);
+ellipse(51,100,7,7);
+fill(0, 255, 30);
+ellipse(69,114,7,7);
+fill(255, 0, 0);
+ellipse(62,116,7,7);
+fill(255,242,0);
+ellipse(54,118,7,7);
+fill(0,255,30);
+ellipse(47,120,7,7);
+fill(255, 0, 0);
+ellipse(38,122,7,7);
+fill(255,242,0);
+ellipse(78,127,7,7);
+fill(0,255,30);
+ellipse(71,131,7,7);
+fill(255, 0, 0);
+ellipse(63,134,7,7);
+fill(255,242,0);
+ellipse(56,136,7,7);
+fill(0,255,30);
+ellipse(49,138,7,7);
+fill(255, 0, 0);
+ellipse(42,140,7,7);
+fill(255,242,0);
+ellipse(34,141,7,7);
+fill(0,255,30);
+ellipse(26,143,7,7);
+fill(255, 0, 0);
+ellipse(86,139,7,7);
+fill(255,242,0);
+ellipse(78,142,7,7);
+fill(0,255,30);
+ellipse(71,146,7,7);
+fill(255, 0, 0);
+ellipse(65,147,7,7);
+fill(255,242,0);
+ellipse(58,150,7,7);
+fill(0,255,30);
+ellipse(52,152,7,7);
+fill(255, 0, 0);
+ellipse(46,154,7,7);
+fill(255,242,0);
+ellipse(40,156,7,7);
+fill(0,255,30);
+ellipse(79,160,7,7);
+fill(255, 0, 0);
+ellipse(72,163,7,7);
+fill(255,242,0);
+ellipse(64,165,7,7);
+fill(0,255,30);
+ellipse(57,168,7,7);
+fill(255, 0, 0);
+ellipse(49,170,7,7);
+fill(255,242,0);
+ellipse(41,171,7,7);
+fill(0,255,30);
+ellipse(34,172,7,7);
+fill(255,242,0);
+ellipse(88,173,7,7);
+fill(0,255,30);
+ellipse(81,175,7,7);
+fill(255, 0, 0);
+ellipse(74,178,7,7);
+fill(255,242,0);
+ellipse(67,180,7,7);
+fill(0,255,30);
+ellipse(60,183,7,7);
+fill(255, 0, 0);
+ellipse(53,185,7,7);
+fill(255,242,0);
+ellipse(46,186,7,7);
+fill(0,255,30);
+ellipse(38,188,7,7);
+fill(255, 0, 0);
+ellipse(30,190,7,7);
+fill(255,242,0);
+ellipse(22,192,7,7);
+fill(0,255,30);
+ellipse(94,184,7,7);
+fill(255, 0, 0);
+ellipse(86,188,7,7);
+fill(255,242,0);
+ellipse(78,190,7,7);
+fill(0,255,30);
+ellipse(70,192,7,7);
+fill(255, 0, 0);
+ellipse(62,195,7,7);
+fill(255,242,0);
+ellipse(54,197,7,7);
+fill(0,255,30);
+ellipse(46,199,7,7);
+fill(255, 0, 0);
+ellipse(39,201,7,7);
+fill(255,242,0);
+ellipse(32,203,7,7);
+fill(0,255,30);
+ellipse(25,205,7,7);
+fill(255, 0, 0);
+ellipse(18,207,7,7);
+fill(255,242,0);
+ellipse(102,195,7,7);
+fill(0,255,30);
+ellipse(95,198,7,7);
+fill(255, 0, 0);
+ellipse(88,201,7,7);
+fill(255,242,0);
+ellipse(82,204,7,7);
+
+
+
+
+
+
+
+
+//Presents
+fill(255, 0, 0);
+rect(3,300,40,36);
+fill(255, 242, 0);
+rect(11,300,23,36);
+fill(255, 255, 255);
+triangle(44,288,25,301,44,310);
+triangle
+
+//Snow
+fill(250, 244, 244);
+ellipse(1,1,10,10);
+ellipse(70,47,10,10);
+ellipse(60,60,6,6);
+ellipse(80,90,5,5);
+ellipse(20,70,9,9);
+ellipse(280,220,11,11);
+ellipse(400,20,6,6);
+ellipse(30,40,10,10);
+ellipse(310,83,9,9);
+ellipse(350,85,7,7);
+ellipse(329,39,8,8);
+ellipse(378,180,8,8);
+ellipse(333,168,9,9);
+ellipse(90,70,4,4);
+ellipse(237,25,8,8);
+ellipse(170,89,7,7);
+ellipse(220,75,7,7);
+
+
+
+
+
+
